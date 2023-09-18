@@ -13,6 +13,9 @@
   I’m adept at building exceptional web and mobile apps.
 </p>
 
+
+
+<!--
 <h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
 
 <div align="center">
@@ -43,7 +46,4 @@
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
 </div>
-
-<!-- <a href="https://github.com/jrgarciadev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrgarciadev&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-</a> -->
+-->
